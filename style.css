@@ -1,0 +1,13 @@
+.navbar-nav .nav-link:hover{
+    background-image: linear-gradient(to right, #bda8a8, #e0c8c8);
+    border: none;
+    border-radius: 50px;
+}
+.formulario{
+  width: 50%;
+}
+@media only screen and (max-width: 1000px) {
+  .formulario{
+    width: auto;
+  }
+}
